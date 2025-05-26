@@ -1,3 +1,5 @@
+import register_module
+
 def main():
     print("Hello from xyz!")
 
